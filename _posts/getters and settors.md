@@ -18,4 +18,14 @@ Mutator methods may also be used in non-object-oriented environments. In this ca
 In programming languages that support them, properties offer a convenient alternative without giving up the utility of encapsulation.
 Setters, or mutators, are methods that provider the caller with an opportunity to update the value of a particular instance variable. Similar to getters, setters are often named by prefixing the corresponding instance variable with "set".Note that, unlikely getters, setters have no return value. A setter's job is usually limited to changing the value of an instance variable. Like getters, setters provide a useful layer of indirection to manipulating instance variables.
 
+to view the codebase with exaples,click here:
+
+  <https://github.com/dmaish/getters-and-setters-codebase/blob/master/getters%20and%20setters.md>
+
+
+
+
+
+
+
 
